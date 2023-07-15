@@ -1,0 +1,2 @@
+# CategIma
+Categorizador de imágenes
